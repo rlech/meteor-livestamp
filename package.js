@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse(function (api, where) {
   api.versionsFrom("METEOR@0.9.0");
 
-  api.use(['templating', 'underscore', 'mrt:moment@2.8.1'], 'client');
+  api.use(['templating', 'underscore', 'jeeeyul:moment-with-langs'], 'client');
 
   api.export('livestamp');
 
