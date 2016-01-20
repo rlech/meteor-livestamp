@@ -16,7 +16,7 @@ elements using [Moment.js](http://momentjs.com/), packaged for Meteor.
 Installation
 -------------
 
-`meteor add rlech:livestamp`
+`meteor add dudeawesome:livestamp`
 
 
 Usage

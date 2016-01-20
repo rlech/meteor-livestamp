@@ -1,5 +1,5 @@
 Package.describe({
-  name:"rlech:livestamp",
+  name:"dudeawesome:livestamp",
   summary: "jQuery plugin providing auto-updating timeago text to your timestamped HTML elements using Moment.js",
   version: "1.0.0",
   git: "https://github.com/rlech/meteor-livestamp.git"
