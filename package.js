@@ -13,5 +13,5 @@ Package.onUse(function (api, where) {
 
   api.export('livestamp');
 
-  api.addFiles(['lib/livestamp/livestamp.js', 'export-livestamp.js', 'helpers.js'], 'client');
+  api.addFiles(['lib/livestamp/livestamp.min.js', 'export-livestamp.js', 'helpers.js'], 'client');
 });
